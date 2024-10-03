@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
+using real_estate_agency_17_back.ReaService.Api.Models;
 using System.Collections.Generic;
 
 namespace PostgreSQL.Data

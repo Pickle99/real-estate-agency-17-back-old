@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using PostgreSQL.Data;
+using real_estate_agency_17_back.ReaService.Api.Models;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 

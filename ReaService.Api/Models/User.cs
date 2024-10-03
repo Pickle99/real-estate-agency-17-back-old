@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace PostgreSQL.Data
+namespace real_estate_agency_17_back.ReaService.Api.Models
 {
     public class User
     {
