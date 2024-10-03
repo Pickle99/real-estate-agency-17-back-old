@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\real-estate-agency-17-back.props" />
+</Project>
